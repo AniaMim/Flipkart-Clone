@@ -1,0 +1,26 @@
+@media screen and (max-width: 1000px) {
+    
+    
+    nav{
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        align-items: center;
+    }
+    .slider img{
+        height: 40vh;
+    }
+    .logo{
+        padding-top: 2vh;
+    }
+    .searchbox{
+        width: 60vw;
+    }
+    
+    .card-item img{
+        width: 120px;
+        height: 120px;
+        
+    }
+    
+  }
